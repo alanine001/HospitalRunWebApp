@@ -9,4 +9,4 @@ Feature: User is able to create a patient
     Then The user is navigated to New Patient page
     When The user fills in mandatory field Given name
     And Clicks Create Patients Button
-    Then The user is able to see the Patient page with Patient details
+    Then The user is able to see the Patient page with Patient detailss
